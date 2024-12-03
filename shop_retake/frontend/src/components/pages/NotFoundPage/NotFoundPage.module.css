@@ -1,0 +1,47 @@
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .error {
+    margin-bottom: 40px;
+  }
+  
+  .cactus {
+    margin-top: 3rem;
+    width: 30rem; 
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .message {
+    font-size: 3.5rem; 
+    font-weight: bold; 
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .description {
+    margin: 10px 0;
+    color: grey;
+    font-size: 1rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+  }
+  
+  .homeButton {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 45px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .homeButton:hover {
+    background-color: #218838;
+  }
+  

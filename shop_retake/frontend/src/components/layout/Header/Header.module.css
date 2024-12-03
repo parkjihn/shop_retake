@@ -1,0 +1,33 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .logo img {
+    height: 40px; 
+  }
+  
+  .nav {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navLink {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+  }
+  
+  .navLink:hover {
+    color: #007bff; 
+  }
+  
+  .cartIcon img {
+    height: 30px; 
+  }
+  

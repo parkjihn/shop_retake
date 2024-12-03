@@ -1,0 +1,33 @@
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: left;
+    
+  }
+  
+  h2 {
+    font-size: 33px;
+    margin-bottom: 20px;
+  }
+  
+  .info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 25px; 
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .contactCard {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .map {
+    margin-top: 20px;
+  }
+  
